@@ -23,3 +23,5 @@ There are two kinds of files in this codebase: application files and source file
 - `images/*` - Images associated with the application
 - `package.json` and `package-lock.json` - Node dependency files
 - `wmr.config.mjs` - Config file for [WMR](https://www.npmjs.com/package/wmr), the light-weight build tool being used for this project.
+
+[^note]: cjand
